@@ -12,6 +12,7 @@ A backend system built with FastAPI for managing product inventory.
 ## 🚀 Run Locally
 
 oprn frontend folder:
+npm install
 npm start
 
 open new/split terminal for running fastapi server
